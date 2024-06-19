@@ -1,0 +1,90 @@
+{
+  "ascii": [
+    "██▀███   ██▓ ▄████▄   ██ ▄█▀▓██   ██▓  ██████        ██▓███   ▒█████   ██▀███  ▄▄▄█████▓  █████▒▒█████   ██▓     ██▓ ▒█████",
+    "▓██ ▒ ██▒▓██▒▒██▀ ▀█   ██▄█▒  ▒██  ██▒▒██    ▒       ▓██░  ██▒▒██▒  ██▒▓██ ▒ ██▒▓  ██▒ ▓▒▓██   ▒▒██▒  ██▒▓██▒    ▓██▒▒██▒  ██▒",
+    "▓██ ░▄█ ▒▒██▒▒▓█    ▄ ▓███▄░   ▒██ ██░░ ▓██▄         ▓██░ ██▓▒▒██░  ██▒▓██ ░▄█ ▒▒ ▓██░ ▒░▒████ ░▒██░  ██▒▒██░    ▒██▒▒██░  ██▒",
+    "▒██▀▀█▄  ░██░▒▓▓▄ ▄██▒▓██ █▄   ░ ▐██▓░  ▒   ██▒      ▒██▄█▓▒ ▒▒██   ██░▒██▀▀█▄  ░ ▓██▓ ░ ░▓█▒  ░▒██   ██░▒██░    ░██░▒██   ██░",
+    "░██▓ ▒██▒░██░▒ ▓███▀ ░▒██▒ █▄  ░ ██▒▓░▒██████▒▒      ▒██▒ ░  ░░ ████▓▒░░██▓ ▒██▒  ▒██▒ ░ ░▒█░   ░ ████▓▒░░██████▒░██░░ ████▓▒░",
+    "░ ▒▓ ░▒▓░░▓  ░ ░▒ ▒  ░▒ ▒▒ ▓▒   ██▒▒▒ ▒ ▒▓▒ ▒ ░      ▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░  ▒ ░░    ▒ ░   ░ ▒░▒░▒░ ░ ▒░▓  ░░▓  ░ ▒░▒░▒░",
+    "  ░▒ ░ ▒░ ▒ ░  ░  ▒   ░ ░▒ ▒░ ▓██ ░▒░ ░ ░▒  ░ ░      ░▒ ░       ░ ▒ ▒░   ░▒ ░ ▒░    ░     ░       ░ ▒ ▒░ ░ ░ ▒  ░ ▒ ░  ░ ▒ ▒░",
+    "  ░░   ░  ▒ ░░        ░ ░░ ░  ▒ ▒ ░░  ░  ░  ░        ░░       ░ ░ ░ ▒    ░░   ░   ░       ░ ░   ░ ░ ░ ▒    ░ ░    ▒ ░░ ░ ░ ▒",
+    "   ░      ░  ░ ░      ░  ░    ░ ░           ░                     ░ ░     ░                         ░ ░      ░  ░ ░      ░ ░",
+    "             ░                ░ ░"
+  ],
+  "title": "Ricky's Portfolio",
+  "username": "visitor",
+  "hostname": "ricky's",
+  "password": "050823",
+  "repoLink": "https://github.com/ricky122-5/personalportfolio",
+  "social": {
+    "email": "reddygari.rithvik@gmail.com",
+    "github": "ricky122-5/",
+    "linkedin": "rithvik-reddygari/"
+  },
+  "aboutGreeting": "Hey!\nI am Rithvik Reddygari, or Ricky, and I'm a CS Major at Georgia Tech with a minor in FinTech.",
+  "projects": [
+    [
+      "Password Manager",
+      "C++ Based GUI Password Manager System with Custom Hashing and Encryption",
+      "https://github.com/ricky122-5/advanced-password-manager"
+    ],
+    [
+      "Wrapped 2.0",
+      "A Firebase-backed Android app using Spotify API to track your top music and artists, offering AI insights on your self-expression",
+      "https://github.com/rithvikr1255/SpotifyWrapped202-2"
+    ],
+    [
+      "StockVisAI",
+      "React Stock Visualization App with AI Spice",
+      "https://github.com/ricky122-5/stockvisai"
+    ],
+    [
+      "Walker",
+      "Computer Vision Navigation for the Visually Impaired + Best AI/ML Hack @ HackTJ 8.0",
+      "https://github.com/ricky122-5/walker"
+    ],
+    [
+      "SnowSource",
+      "An app to track and forecast snowmelt sources using machine learning, addressing water supply concerns due to declining snowpacks",
+      "https://sites.google.com/view/snowsource/home"
+    ],
+    [
+      "AI in Health",
+      "A comparative study comparing the YOLO and FR-CNN deep learning algorithms on effective chest illness detection + 3rd Place at RSEF",
+      "https://sites.google.com/lcps.org/2022-lcps-rsef/systems-software?authuser=0"
+    ],
+    [
+      "AI in Health v2",
+      "A comparative study comparing the YOLO-R and YOLOv5 deep learning algorithms on effective chest illness detection",
+      "https://sites.google.com/lcps.org/2023lcpsrsef/systems-software?authuser=0"
+    ],
+    [
+      "ENSO-SAT",
+      "A conceptual satellite that could predict and monitor the weather phenomenon El Niño, part of my NASA internship",
+      "https://www.youtube.com/watch?app=desktop&v=t8OX39G72QY"
+    ]
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#F8DDE5",
+    "banner": "#FF4500",
+    "border": {
+      "visible": true,
+      "color": "#FF0000"
+    },
+    "prompt": {
+      "default": "#FFFFFF",
+      "user": "#FFA500",
+      "host": "#FF0000",
+      "input": "#FFFFFF"
+    },
+    "link": {
+      "text": "#FFA500",
+      "highlightColor": "#FF0000",
+      "highlightText": "#000000"
+    },
+    "commands": {
+      "textColor": "#FFFFFF"
+    }
+  }
+}
