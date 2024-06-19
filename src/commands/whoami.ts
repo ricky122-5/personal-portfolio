@@ -47,14 +47,13 @@ const whoamiObj = {
   ],
 }
 
-let currentIndex = 0;
 
 export const createWhoami = () : string[] => {
   const whoami : string[] = [];
   whoami.push("<br>");
 
   whoamiObj.message.forEach((messageArray) => {
-    messageArray.forEach((ele, idx) => {
+    messageArray.forEach((ele) => {
       whoami.push(ele);
     });
     whoami.push("<br>");
