@@ -180,35 +180,6 @@ function displayText(item: string, idx: number) {
   }, 40 * idx);
 }
 
-function easterEggStyles() {
-  const bars = document.getElementById("bars");
-  const body = document.body;
-  const main = document.getElementById("main");
-  const span = document.getElementsByTagName("span");
-
-  if (!bars) return
-  bars.innerHTML = "";
-  bars.remove()
-
-  if (main) main.style.border = "none";
-
-  body.style.backgroundColor = "black";
-  body.style.fontFamily = "VT323, monospace";
-  body.style.fontSize = "20px";
-  body.style.color = "white";
-
-  for (let i = 0; i < span.length; i++) {
-    span[i].style.color = "white";
-  }
-
-  USERINPUT.style.backgroundColor = "black";
-  USERINPUT.style.color = "white";
-  USERINPUT.style.fontFamily = "VT323, monospace";
-  USERINPUT.style.fontSize = "20px";
-  if (PROMPT) PROMPT.style.color = "white";
-
-}
-
 function downloadResume() {
   const link = document.createElement("a");
   link.href = "src/RithvikReddygariResume.pdf";
