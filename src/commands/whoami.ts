@@ -3,7 +3,7 @@ const whoamiObj = {
     [
       "Hello! I'm Rithvik Reddygari, a passionate and driven computer science student at Georgia Institute of Technology,",
       "where I am pursuing a BS in Computer Science with a Minor in FinTech, maintaining a GPA of 3.84.",
-      "My academic journey has been complemented by active involvement in clubs like the GT Fintech Club, GT Trading Club,",
+      "My academic journey has been complemented by active involvement in clubs like Trading @ GT",
       "and leading social media efforts for the GT Jadoo Bollywood Fusion Dance Team."
     ],
     [
